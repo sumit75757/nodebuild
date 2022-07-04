@@ -1,0 +1,12 @@
+{
+    "web": {
+        "client_id": "983499912659-g9bp4oics6c1a70cmemknvk3j89oo3ru.apps.googleusercontent.com",
+        "project_id": "seraphic-elixir-353404",
+        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+        "token_uri": "https://oauth2.googleapis.com/token",
+        "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+        "client_secret": "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",
+        "redirect_uri": ["http://localhost:4000"],
+        "javascript_origins": ["http://localhost:4200", "http://localhost"]
+    }
+}
