@@ -42,7 +42,7 @@ const product = new mongoose_1.default.Schema({
     },
     delevery: {
         type: Number,
-        required: true
+        // required: true
     },
     createAt: String,
 });

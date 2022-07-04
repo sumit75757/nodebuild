@@ -2,10 +2,10 @@
   "name": "apis",
   "version": "1.0.0",
   "description": "",
-  "main": "index.ts",
+  "main": "index.js",
   "scripts": {
-    "start": "ts-node index.ts",
-    "watch": "nodemon index.ts"
+    "start": "ts-node index.js",
+    "watch": "nodemon index.js"
   },
   "author": "sumit patel",
   "license": "ISC",

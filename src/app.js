@@ -20,7 +20,7 @@ const cart_1 = __importDefault(require("./cart/cart"));
 const orders_1 = __importDefault(require("./orders/orders"));
 const app = (0, express_1.default)();
 require("dotenv").config();
-const database = process.env.MONGO_URL;
+const database = process.env.MONGO_URL_LOCAL;
 console.log(database);
 mongoose_1.default
     .connect(database)
